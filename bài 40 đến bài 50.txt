@@ -1,0 +1,22 @@
+
+Bài 40: Tính S(n) = CanBac2(x^n + CanBac2(x^n-1 + … + CanBac2(x^2 + CanBac2(x)))) có n dấu căn
+
+Bài 41: Tính S(n) = 1 / (1 + 1 / ( 1 + 1 / (…. 1 + 1 / 1 + 1))) có n dấu phân số
+
+Bài 42: Cho n là số nguyên dương. Hãy tìm giá trị nguyên dương k lớn nhất sao cho S(k)  < n. Trong đó chuỗi k được định nghĩa như sau: S(k) = 1 + 2 + 3 + … + k
+
+Bài 43: Hãy đếm số lượng chữ số của số nguyên dương n
+
+Bài 44: Hãy tính tổng các chữ số của số nguyên dương n
+
+Bài 45: Hãy tính tích các chữ số của số nguyên dương n
+
+Bài 46: Hãy đếm số lượng chữ số lẻ của số nguyên dương n
+
+Bài 47: Hãy tính tổng các chữ số chẵn của số nguyên dương n
+
+Bài 48: Hãy tính tích các chữ số lẻ của số nguyên dương n
+
+Bài 49: Cho số nguyên dương n. Hãy tìm chữ số đầu tiên của n
+
+Bài 50: Hãy tìm số đảo ngược của số nguyên dương n
